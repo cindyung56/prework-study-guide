@@ -38,3 +38,27 @@ p{
     border: 5px solid gray;
     box-shadow:  5px 10px #888888;
 }
+
+.html-color{
+    color: limegreen;
+    font-weight: 400;
+}
+
+#html-heading{
+    text-align: center;
+    background-color: limegreen;
+    /*border-radius: 10px;*/
+    color: white;
+}
+
+.css-color{
+    color: darkred;
+    font-weight: 400;
+}
+
+#css-heading{
+    text-align: center;
+    background-color: darkred;
+    /*border-radius: 10px;*/
+    color: white;
+}
